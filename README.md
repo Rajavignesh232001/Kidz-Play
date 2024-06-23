@@ -1,2 +1,2 @@
 # Kidz-Play
-Website for Kids
+Game for Kids
